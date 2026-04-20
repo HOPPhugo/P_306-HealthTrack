@@ -1,6 +1,6 @@
 # Journal de bord
 
-## Séance X - Date
+## Séance 1 - Date 20.04.2026
 
 ### Objectif
 -
