@@ -2,17 +2,19 @@
 
 ## Rôles
 ### Product Owner
-- Nom :
-- Responsabilités :
+- Nom : Luca 
+- Responsabilités : s'occupe du product et sprint backlog
 
 ### Scrum Master
-- Nom :
-- Responsabilités :
+- Nom : Hugo
+- Responsabilités : aide l'équipe a pratiquer la méthode scrum
 
 ### Developers
-- Noms :
-- Responsabilités :
+- Noms : martin et douglas
+- Responsabilités : développent l'application avec la méthode scrum
 
 ## Fonctionnement du groupe
 - Comment vous travaillez ?
+- bien.
 - Comment vous prenez des décisions ?
+- en discutant tous ensemble.
