@@ -10,16 +10,13 @@
 ### Travail réalisé
 - Compte google
 - Compte HealthTrack
--
 
 ### Problèmes rencontrés
 - AppSheet marche pas
--
 
 ### Solutions trouvées
 - Non
--
-
+- 
 ### Prochaine étape
 - Je sais pas
 
@@ -33,7 +30,7 @@ Paramètres santés
 -
 
 ## Problèmes rencontrés
-Appsheet très complexe à prenre en main
+Appsheet très complexe à prendre en main
 
 ## Solutions trouvées
 Non
