@@ -22,3 +22,21 @@
 
 ### Prochaine étape
 - Je sais pas
+
+## Séance 2 - Date 21.04.2026
+
+## Objectif
+Comprendre HealthTrack
+Paramètres santés
+
+## Travail réalisé
+-
+
+## Problèmes rencontrés
+Appsheet très complexe à prenre en main
+
+## Solutions trouvées
+Non
+
+## Prochaine étape
+Comprendre Appsheet
