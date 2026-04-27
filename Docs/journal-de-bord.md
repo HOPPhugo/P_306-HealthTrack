@@ -37,3 +37,22 @@ Non
 
 ## Prochaine étape
 Comprendre Appsheet
+
+## Séance 3 - Date 27.04.2026
+
+## Objectif
+Améliorer le design de l'application
+Améliorer les fonctionnalités
+
+## Travail réalisé
+- Design changé
+- Fonctions mieux organisées et plus logiques
+
+## Problèmes rencontrés
+Appsheet très complexe à prendre en main x2
+
+## Solutions trouvées
+Non
+
+## Prochaine étape
+Continuer de comprendre app sheet
