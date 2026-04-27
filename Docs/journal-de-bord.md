@@ -27,7 +27,7 @@ Comprendre HealthTrack
 Paramètres santés
 
 ## Travail réalisé
--
+- Données enregistrables et synchronisée
 
 ## Problèmes rencontrés
 Appsheet très complexe à prendre en main
