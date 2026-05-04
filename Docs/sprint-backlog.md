@@ -11,3 +11,4 @@ Définissez clairement votre objectif.
 
 ## Definition of Done
 Quand considérez-vous une tâche comme terminée ?
+La fonctionnalité fonctionne sur mobile
