@@ -1,13 +1,13 @@
 # Rétrospective
 
 ## Ce qui a bien fonctionné
--La coésion d'équipe
+-La cohésion d'équipe
 
 ## Ce qui a moins bien fonctionné
--AppSheet
+-AppSheet était compliqué a prendre en main au départ mais ensuite tout étais très bien on avancais rapidement.
 
 ## Ce que vous avez appris
--Scrum
+-comment faire une application sur appsheet et utiliser la methode scrum.
 
 ## Ce que vous feriez différemment
--AppSheet
+-peut être un peu d'explications sur appsheet avant de commencer le projet car on ne comprenais pas vraiment comment ca fonctionnais.
