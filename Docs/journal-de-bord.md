@@ -101,7 +101,7 @@ Mettre en place le système de moyennes et d'objectifs
 -mettre un objectif de : sommeil,seances de sport ou nombres de verres d'eau
 
 ## Travail réalisé
-
+-On a créer une premiere version inachevée de la page des moyennes et objectifs.
 
 ## Problèmes rencontrés
 Aucun
@@ -109,4 +109,20 @@ Aucun
 ## Solutions trouvées
 
 ## Prochaine étape
+-terminer la page moyenne
 
+## Séance 7 - Date 11.05.2026
+
+## Objectif
+-Essayer de finir la page moyenne avec des fonctions fonctioonelles.
+
+## Travail réalisé
+-On a réussi a faire les objectifs sport et la moyenne de sommeil.
+
+## Problèmes rencontrés
+Aucun
+
+## Solutions trouvées
+
+## Prochaine étape
+-Continuer sur les moyennes hydratation et objectif sommeil
