@@ -114,7 +114,7 @@ Aucun
 ## Séance 7 - Date 11.05.2026
 
 ## Objectif
--Essayer de finir la page moyenne avec des fonctions fonctioonelles.
+-Essayer de finir la page moyenne avec des fonctions fonctionelles.
 
 ## Travail réalisé
 -On a réussi a faire les objectifs sport et la moyenne de sommeil.
@@ -122,7 +122,33 @@ Aucun
 ## Problèmes rencontrés
 Aucun
 
+## Séance 8 - Date 12.05.2026
+
+## Objectif
+-Essayer de finir la page moyenne avec des fonctions fonctionelles.
+
+## Travail réalisé
+-On a réussi a faire les objectifs et les moyennes qui nous manquaient et on a amélioré l'affichage.
+
+## Problèmes rencontrés
+Aucun
+
 ## Solutions trouvées
 
 ## Prochaine étape
--Continuer sur les moyennes hydratation et objectif sommeil
+Sprint 3
+
+## Séance 9 - Date 18.05.2026
+
+## Objectif
+-Débuter le Sprint 3.
+
+## Travail réalisé
+
+
+## Problèmes rencontrés
+Aucun
+
+## Solutions trouvées
+
+## Prochaine étape
