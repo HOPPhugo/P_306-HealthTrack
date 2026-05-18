@@ -7,7 +7,7 @@ Documentez uniquement les formules IMPORTANTES.
 - Nom : Formule de Moyenne Hydratation
 - Où : Journal Bien Etre
 - Formule : AVERAGE(SELECT(Journal bien etre[Hydratation], TRUE))
-- Explication AVEC VOS MOTS : selectionne et calcule une moyenne des données d'hydrataion
+- Explication AVEC VOS MOTS : selectionne et calcule une moyenne des données d'hydrataion.
 
 ## Formule 2
 - Nom : Formule de Moyenne Sommeil
