@@ -63,6 +63,28 @@ Documentez uniquement les formules IMPORTANTES.
 - Formule : if (AVERAGE(SELECT(Journal bien etre[Humeur], TRUE)) <= 1, AVERAGE(SELECT(Journal bien etre[Humeur], TRUE)) & " / 5 : Ta vie est fade, sans goût", AVERAGE(SELECT(Journal bien etre[Humeur], TRUE)) & " / 5 : Ta vie est merveilleuse, incroyable, ravissante, lumineuse, magnifique, banger, peak ! 🔥")
 - Explication AVEC VOS MOTS : vérifie l'état de la moyenne de d'humeure puis affiche la moyenne + "Ta vie est fade, sans goût" si pas très heureux, et inversement toujours la moyenne mais le texte deviens : "Ta vie est merveilleuse, incroyable, ravissante, lumineuse, magnifique, banger, peak ! 🔥".
 
+## Formule 9
+- Nom : COUNT
+- Où : Journal de sport
+- Formule : COUNT(
+  SELECT(
+    Journal sport[ID],
+    [week] = [_THISROW].[week]
+  )
+)
+- Explication AVEC VOS MOTS : Compte le nombre de séances de sport où la semaine actuelle est celle qui est enregistrée
+
+## Formule 10
+- Nom : Moyenne de sommeil
+- Où : Jouranl bien être
+- Formule : AVERAGE(
+  SELECT(
+    Journal bien etre[Sommeil],
+    [week] = [_THISROW].[week]
+  )
+)
+- Explication AVEC VOS MOTS : fait une moyenne des nombres d'heures de sommeil où la semaine actuelle est celle qui est enregistrée
+
 
 ## Règle
 Vous devez comprendre chaque formule utilisée.
