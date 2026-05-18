@@ -20,5 +20,5 @@ En tant que [utilisateur], je veux [action] afin de [objectif].
 |   2  |  9 | En tant qu'utilisateur je souhaite voir une moyenne de sommeil de la semaine afin d'avoir un suivi                                                               |   Haute  |     Done    |
 |   2  | 10 | En tant qu'utilisateur je souhaite voir une moyenne d'hydratation de la semaine afin d'avoir un suivi                                                            |   Haute  |     Done    |
 |   3  | 13 | En tant que client j veux pouvoir avoir une vision graphique de mes moyennes afin de me repérer visuellement par rapport a mes objectifs                         |   Haute  |     To Do   |
-|   3  | 14 | En tant que Client je veux qu'il y aie une limite a certaines entrées pour éviter les valeurs absurdes                                                           |  Moyenne |     To Do   |
+|   3  | 14 | En tant que Client je veux qu'il y aie une limite a certaines entrées pour éviter les valeurs absurdes                                                           |  Moyenne |     Done    |
 
