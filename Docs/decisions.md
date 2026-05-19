@@ -12,4 +12,4 @@ Parce que on ne comprenais pas comment utiliser appsheet.
 -Aucune
 
 ### Conséquences
-- On a compris.
+- On a compris et nous nous sommes améliorés
