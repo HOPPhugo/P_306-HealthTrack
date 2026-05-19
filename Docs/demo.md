@@ -7,10 +7,10 @@
 -si je veux aller voir mes données je clique sur le bouton "Données".
 
 ## Qui présente quoi ?
--Hugo présente en global le scénario
+-On présente chacun un tab de l'application en disant comment ça fonctionne et pour nous l'avons fait
 
 ## Risques
--projet non-fini
+-Certaines personnes peuvent ne pas comprendre certaines choses
 
 ## Plan B
--pas de projet
+-Demander aux autres pour qu'ils les aident
