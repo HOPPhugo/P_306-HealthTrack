@@ -144,11 +144,18 @@ Sprint 3
 -Débuter le Sprint 3.
 
 ## Travail réalisé
-
+Ajout d'une séance rapide et ajouts de verres d'eau avec améliorations graphiques
 
 ## Problèmes rencontrés
 Aucun
+## Séance 10 - Date 19.05.2026
 
-## Solutions trouvées
+## Objectif
+-Finir le sprint 3
 
+## Travail réalisé
+on à fini les graphiques et les incohérences possibles
+
+## Problèmes rencontrés
+Aucun
 ## Prochaine étape
