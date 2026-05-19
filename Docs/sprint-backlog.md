@@ -17,6 +17,10 @@ Définissez clairement votre objectif.
 | US 9  |  Hugo     | Done |
 | US 10  | Luca        | Done |
 | US 11  | Martin        | Done |
+| US 12  | Hugo        | Done |
+| US 13  | Hugo        | Done |
+| US 14  | Douglas        | Done |
+| US 15  | Luca        | To Do |
 
 
 ## Definition of Done
