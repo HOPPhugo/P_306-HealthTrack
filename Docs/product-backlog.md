@@ -17,8 +17,11 @@ En tant que [utilisateur], je veux [action] afin de [objectif].
 |   2  |  6 | En tant qu'utilisateur je souhaite pouvoir entrer mon nombre de vers d'eau consommer afin de faire un objectif                                                   |  Moyenne |     Done    |
 |   2  |  7 | En tant qu'utilisateur je souhaite pouvoir entrer mon temps de sommeil afin de faire un objectif                                                                 |  Moyenne |     Done    |
 |   2  |  8 | En tant qu'utilisateur je souhaite pouvoir voir moon totale de séance de sport afin d'avoir un suivi                                                             |  Moyenne |     Done    |
-|   2  |  9 | En tant qu'utilisateur je souhaite voir une moyenne de sommeil de la semaine afin d'avoir un suivi                                                               |   Haute  |     Done    |
-|   2  | 10 | En tant qu'utilisateur je souhaite voir une moyenne d'hydratation de la semaine afin d'avoir un suivi                                                            |   Haute  |     Done    |
-|   3  | 13 | En tant que client j veux pouvoir avoir une vision graphique de mes moyennes afin de me repérer visuellement par rapport a mes objectifs                         |   Haute  |     Done    |
+|   2  |  9 | En tant qu'utilisateur je souhaite voir une moyenne de sommeil de la semaine afin d'avoir un suivi                                                               |  Haute   |     Done    |
+|   2  | 10 | En tant qu'utilisateur je souhaite voir une moyenne d'hydratation de la semaine afin d'avoir un suivi                                                            |  Haute   |     Done    |
+|   2  | 11 | En tant que client je veux voir si mes objectifs sont atteint ou non afin d'apercevoir mon évolution                                                             |  Haute   |     Done    |
+|   2  | 12 | En tant que client je veux pouvoir visualiser la moyenne d'humeur sur 5 dans un dashboard afin de savoir si au quotidien je suis plutôt content ou non.          |  Moyenne |     Done    |
+|   3  | 13 | En tant que client j veux pouvoir avoir une vision graphique de mes moyennes afin de me repérer visuellement par rapport a mes objectifs                         |  Haute   |     Done    |
 |   3  | 14 | En tant que Client je veux qu'il y aie une limite a certaines entrées pour éviter les valeurs absurdes                                                           |  Moyenne |     Done    |
+|   3  | 15 | En tant qu'utilisateurs je veux obtenir des badges par rapport a un score journalier                                                                             |  Basse   |     To Do   |
 
